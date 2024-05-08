@@ -8,6 +8,8 @@ Data Inicial: 2024-04-30
 Data Final: 2024-05-01
 Periodicidade da Medicao: 20 Minutos
 
+Data Medicao;Hora Medicao;Precipitacao Total
+
 01/05/2024;20:50;1,6
 01/05/2024;20:40;1
 01/05/2024;20:10;1,2
